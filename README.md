@@ -1,1 +1,1 @@
-# blog_angular
+# Blog funcional desenvolvido em Angular.
